@@ -12,6 +12,7 @@ python manage.py runserver - to run app
 
 
 -  Examples!
-[Uploading Снимок экрана 2022-01-20 в 23.16.22.png…]()
+<img width="1440" alt="Снимок экрана 2022-01-20 в 23 17 52" src="https://user-images.githubusercontent.com/74854644/150388993-4ac10977-e01b-4049-ba82-1cee19c8aa71.png">
+
 
 
